@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "lighthouse": "^9.6.8",
-    "open": "^8.4.0",
-    "puppeteer": "^19.6.3"
-  }
-}
